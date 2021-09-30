@@ -1,6 +1,10 @@
-In JS exist 4 paradigms of OOP which should everyone knows and don't avoid them in using
+<div align="center">
+<img height="60" src="https://miro.medium.com/max/2000/1*BAWXQo-j9M9mKvk22a9Y6g.png">
+<p>In JS exist 4 paradigms of OOP which should everyone knows and don't avoid them in using</p>
+</div>
 
-Four whales 
+Four whales:
+
 1) Abstraction
 2) Inheritance
 3) Encapsulation
